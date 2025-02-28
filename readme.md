@@ -1,0 +1,1 @@
+tool that we can give a string and a path and it’ll print only the lines that contain the given string
